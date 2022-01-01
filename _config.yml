@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Indra Wicaksono
+bio: I'm a Computer System student at Sriwijaya University
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -15,11 +15,11 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://wicaksonoindra.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,26 +33,26 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: indraaaaw
+twitter: wardnproject
+instagram: indraw____
+linkedin: wicaksonoindra
+github: wicaksonoindra
+email: wardnproject@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  wicaksonoindra:
+    name: Indra Wicaksono
+    bio: Net/Sec Enthusiast
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    linkedin: wicaksonoindra
+  # jamesfoster:
+  #   name: James Foster
+  #   bio: A Man who develops software with coffee
+  #   external-image: false
+  #   picture: assets/images/james.jpg
+  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -87,7 +87,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
