@@ -1,6 +1,6 @@
 # main text of home
 name: Indra Wicaksono
-bio: I'm a Computer System student at Sriwijaya University
+bio: Hi! Welcome to my personal blog. I write what I have learned here.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile/profile-2.jpg
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -43,9 +43,9 @@ email: wardnproject@gmail.com
 authors:
   wicaksonoindra:
     name: Indra Wicaksono
-    bio: Net/Sec Enthusiast
+    bio: student
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile/profile-1.jpg
     linkedin: wicaksonoindra
   # jamesfoster:
   #   name: James Foster
