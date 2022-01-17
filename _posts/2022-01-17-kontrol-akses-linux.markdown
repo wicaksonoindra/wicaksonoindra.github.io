@@ -1,17 +1,17 @@
 ---
 title: "Kontrol Akses File Linux"
 layout: post
-date: 2021-12-06 16:36
+date: 2022-01-17 14:14
 headerImage: true
 hidden: false
 tag:
 - administration
-- controll access
+- control access
 - linux
 star: false
 category: blog
 author: wicaksonoindra
-description: Markdown summary with different options
+description: kontrol akses file pada linux
 ---
 
 ### Basic Linux Permission

@@ -11,7 +11,7 @@ tag:
 star: false
 category: blog
 author: wicaksonoindra
-description: Markdown summary with different options
+description: manajemen user dan grup pada linux
 ---
 
 ![terminal](/assets/images/blog/2-manajemen-user-dan-group/etc-passwd.png)

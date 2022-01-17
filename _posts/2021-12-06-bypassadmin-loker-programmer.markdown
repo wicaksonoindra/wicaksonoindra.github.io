@@ -11,7 +11,7 @@ tag:
 star: false
 category: blog
 author: wicaksonoindra
-description: Markdown summary with different options
+description: hunting bug on loker programmer website
 ---
 
 ### Intro
