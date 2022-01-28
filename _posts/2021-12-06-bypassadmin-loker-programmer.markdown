@@ -1,5 +1,5 @@
 ---
-title: "Bypass Admin pada subdomain Loker Progammer"
+title: "Bypass Admin pada subdomain Loker Programmer"
 layout: post
 date: 2021-12-06 16:36
 headerImage: true
