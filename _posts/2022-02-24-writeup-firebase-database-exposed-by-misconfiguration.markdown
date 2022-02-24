@@ -40,5 +40,3 @@ Saya mencoba mencari celah pada suatu aplikasi driver online lokal pada kota tem
 
 ### Impact
 Sejak firebase database salah di konfirgurasi, semua orang dapat melihat data basenya.
-
-### Timeline
