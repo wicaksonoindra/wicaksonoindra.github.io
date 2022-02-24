@@ -21,7 +21,7 @@ Bypass Admin merupakan teknik hacking yang dilakukan dengan cara menginputkan pe
 
 Saya tidak sengaja menemukan url web Loker Programmer yang dibagikan di story whatsapp oleh teman saya yang sedang internship di Loker Progammer. Lalu saya iseng untuk mengunjungi web tersebut untuk melihat program apa yang sedang di jalankan oleh teman saya tersebut.
 
-### Proses Exploitasi
+### Proof of concept:
 > Url: https://event.lokerprogrammer.com/
 
 Pada url tersebut berisi login dan sign-up form, saya jadi iseng untuk mencoba untuk bypass login form tersebut dengan berbagai payload. Awalnya saya coba iseng memasukkan email `'=''or'` dan password `admin` namun tidak berhasil, saya lupa jika form tersebut merupakan email, bukan username hehe. Jadi saya mengubahnya menjadi seperti berikut:
