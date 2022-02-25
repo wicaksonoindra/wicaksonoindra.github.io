@@ -1,5 +1,5 @@
 ---
-title: "Write up: Firebase Database Exposed by Misconfiguration at TravellGo App"
+title: "Write up: Firebase Database Exposed by Misconfiguration"
 layout: post
 date: 2022-02-24 09:04
 headerImage: true
