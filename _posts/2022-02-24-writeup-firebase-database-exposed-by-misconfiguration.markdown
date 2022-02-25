@@ -16,9 +16,6 @@ description: bug hunting on travellgo app
 
 ### Intro
 Akhir-akhir ini, saya tertarik untuk mempelajari App Mobile Pentest. App Mobile Pentest merupakan suatu kegiatan mensimulasikan serangan yang bisa dilakukan pada suatu aplikasi tertentu untuk menemukan kelemahan pada aplikasi tersebut. Setelah mempelajari sedikit metode melakukan Mobile App Pentest, saya mulai mencari aplikasi random di play store untuk proses belajar.
-
-![jadx](/assets/images/blog/4-2022-02-24-writeup-firebase-database-exposed-by-misconfiguration/intro-1.png)
-
 Saya mencoba mencari celah pada suatu aplikasi driver online lokal pada kota tempat inggal saya, dan saya menemukan Database firebase yang ter ekspose.
 
 ### Proof of concept:
