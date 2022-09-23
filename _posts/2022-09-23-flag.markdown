@@ -12,5 +12,6 @@ author: wicaksonoindra
 description: just challange
 ---
 
-Uh oh! you found me!
-flag{n3vEr_5t0p_(l)3arn!n9}
+### Find the flag!
+
+> clue: mesin kembali
