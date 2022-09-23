@@ -1,0 +1,16 @@
+---
+title: "ctf challange"
+layout: post
+date: 2022-09-23 09:04
+headerImage: true
+hidden: false
+tag:
+- ctf
+star: false
+category: blog
+author: wicaksonoindra
+description: just challange
+---
+
+Uh oh! you found me!
+flag{n3vEr_5t0p_(l)3arn!n9}
