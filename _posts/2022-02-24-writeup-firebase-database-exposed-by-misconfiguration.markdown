@@ -11,7 +11,7 @@ tag:
 star: false
 category: blog
 author: wicaksonoindra
-description: bug hunting on travellgo app
+description: bug hunting on android Applications
 ---
 
 ### Intro
