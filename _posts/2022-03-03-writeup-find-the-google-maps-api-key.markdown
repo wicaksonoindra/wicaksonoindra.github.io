@@ -3,7 +3,7 @@ title: "Write up: find Google Maps API key"
 layout: post
 date: 2022-003-03 09:04
 headerImage: true
-hidden: false
+hidden: true
 tag:
 - bughunting
 - writeup
