@@ -3,7 +3,7 @@ title: "Write up: Bypass Admin pada subdomain LokerProgrammer"
 layout: post
 date: 2021-12-06 16:36
 headerImage: true
-hidden: false
+hidden: true
 tag:
 - bughunting
 - writeup
