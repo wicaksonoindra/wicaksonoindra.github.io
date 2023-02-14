@@ -35,7 +35,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: indraaaaw
 twitter: wardnproject
-instagram: indraw____
+instagram: indrawicakson0
 linkedin: wicaksonoindra
 github: wicaksonoindra
 email: wardnproject@gmail.com
@@ -43,16 +43,16 @@ email: wardnproject@gmail.com
 authors:
   wicaksonoindra:
     name: Indra Wicaksono
-    bio: student
+    bio: Cyber Security Enthusiast
     external-image: false
     picture: assets/images/profile/profile-1.jpg
     linkedin: wicaksonoindra
+    twitter: warndproject
   # jamesfoster:
   #   name: James Foster
   #   bio: A Man who develops software with coffee
   #   external-image: false
   #   picture: assets/images/james.jpg
-  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
